@@ -1,0 +1,149 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3676 >>
+stream
+BT
+/F1 10 Tf
+/F1 14 Tf
+50 770 Td (Digital Parking Permit System - SER216 Final Project) Tj
+-50 -770 Td
+/F1 10 Tf
+50 752 Td () Tj
+-50 -752 Td
+/F1 10 Tf
+50 734 Td (GitHub Repository Link: https://github.com/elzodxon/final-seqm.git) Tj
+-50 -734 Td
+/F1 10 Tf
+50 716 Td () Tj
+-50 -716 Td
+/F1 11 Tf
+50 698 Td (Task 1: Requirements) Tj
+-50 -698 Td
+/F1 11 Tf
+50 680 Td (Functional Requirements:) Tj
+-50 -680 Td
+/F1 10 Tf
+50 662 Td (1. The system shall allow students and staff to register vehicles using plate number, owner ID, and vehicle type.) Tj
+-50 -662 Td
+/F1 10 Tf
+50 644 Td (2. The system shall allow users to request parking permits for available parking zones.) Tj
+-50 -644 Td
+/F1 10 Tf
+50 626 Td (3. The system shall display available parking zones before permit approval.) Tj
+-50 -626 Td
+/F1 10 Tf
+50 608 Td (4. The system shall allow security staff to verify permits and update violation records.) Tj
+-50 -608 Td
+/F1 10 Tf
+50 590 Td () Tj
+-50 -590 Td
+/F1 11 Tf
+50 572 Td (Non-Functional Requirements:) Tj
+-50 -572 Td
+/F1 10 Tf
+50 554 Td (1. The system shall verify parking permits within 3 seconds during security checks.) Tj
+-50 -554 Td
+/F1 10 Tf
+50 536 Td (2. The system shall protect user and vehicle data using secure authentication and access control.) Tj
+-50 -536 Td
+/F1 10 Tf
+50 518 Td () Tj
+-50 -518 Td
+/F1 11 Tf
+50 500 Td (Task 2: Workflow Diagram) Tj
+-50 -500 Td
+/F1 10 Tf
+50 482 Td (Vehicle Registration -> Permit Request -> Zone Check -> Permit Approval -> Parking Verification) Tj
+-50 -482 Td
+/F1 10 Tf
+50 464 Td (Diagram file: diagrams/workflow_diagram.png) Tj
+-50 -464 Td
+/F1 10 Tf
+50 446 Td () Tj
+-50 -446 Td
+/F1 11 Tf
+50 428 Td (Task 3: Test Case Table) Tj
+-50 -428 Td
+/F1 10 Tf
+50 410 Td (TC01 System Test: Complete permit process with valid student, vehicle, and zone. Expected: approved permit.) Tj
+-50 -410 Td
+/F1 10 Tf
+50 392 Td (TC02 System Test: Security verifies an approved valid permit. Expected: permit is valid.) Tj
+-50 -392 Td
+/F1 10 Tf
+50 374 Td (TC03 Acceptance Test: Student requests permit for available zone. Expected: approved by university rules.) Tj
+-50 -374 Td
+/F1 10 Tf
+50 356 Td (TC04 Acceptance Test: User checks parking zones. Expected: correct available zones shown.) Tj
+-50 -356 Td
+/F1 10 Tf
+50 338 Td (TC05 Regression Test: Valid non-expired permit. Expected: not shown as expired.) Tj
+-50 -338 Td
+/F1 10 Tf
+50 320 Td (TC06 Regression Test: Security adds violation. Expected: saved without affecting permit status.) Tj
+-50 -320 Td
+/F1 10 Tf
+50 302 Td () Tj
+-50 -302 Td
+/F1 11 Tf
+50 284 Td (Task 4: Defect Analysis) Tj
+-50 -284 Td
+/F1 10 Tf
+50 266 Td (Defect: A valid parking permit is shown as expired during security verification.) Tj
+-50 -266 Td
+/F1 10 Tf
+50 248 Td (Defect category: Functional defect.) Tj
+-50 -248 Td
+/F1 10 Tf
+50 230 Td (Severity: High.) Tj
+-50 -230 Td
+/F1 10 Tf
+50 212 Td (Priority: High.) Tj
+-50 -212 Td
+/F1 10 Tf
+50 194 Td (Possible root cause: Incorrect date comparison, timezone mismatch, database expiry mismatch, or cached permit status.) Tj
+-50 -194 Td
+/F1 10 Tf
+50 176 Td (Regression test: Verify that a valid permit with a future expiry date is displayed as valid during security verification.) Tj
+-50 -176 Td
+/F1 10 Tf
+50 158 Td () Tj
+-50 -158 Td
+/F1 11 Tf
+50 140 Td (Task 5: GitHub Evidence Checklist) Tj
+-50 -140 Td
+/F1 10 Tf
+50 122 Td (Include screenshots of repository homepage, README.md, commit history with at least 3 commits, feature branch, pull request, merged pull request, and uploaded final PDF.) Tj
+-50 -122 Td
+/F1 10 Tf
+50 104 Td (Screenshot files are stored in the screenshots folder and should be replaced with real GitHub screenshots after push and merge.) Tj
+-50 -104 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003812 00000 n 
+0000003938 00000 n 
+0000003995 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+4044
+%%EOF
