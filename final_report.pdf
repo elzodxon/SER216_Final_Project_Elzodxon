@@ -4,7 +4,7 @@
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 2 0 obj
-<< /Length 3676 >>
+<< /Length 3734 >>
 stream
 BT
 /F1 10 Tf
@@ -15,7 +15,7 @@ BT
 50 752 Td () Tj
 -50 -752 Td
 /F1 10 Tf
-50 734 Td (GitHub Repository Link: https://github.com/elzodxon/final-seqm.git) Tj
+50 734 Td (GitHub Repository Link: https://github.com/elzodxon/SER216_Final_Project_Elzodxon) Tj
 -50 -734 Td
 /F1 10 Tf
 50 716 Td () Tj
@@ -117,10 +117,10 @@ BT
 50 140 Td (Task 5: GitHub Evidence Checklist) Tj
 -50 -140 Td
 /F1 10 Tf
-50 122 Td (Include screenshots of repository homepage, README.md, commit history with at least 3 commits, feature branch, pull request, merged pull request, and uploaded final PDF.) Tj
+50 122 Td (Screenshots required: repository homepage, README.md, commit history with at least 3 commits, feature branch, pull request, merged pull request, and uploaded final PDF.) Tj
 -50 -122 Td
 /F1 10 Tf
-50 104 Td (Screenshot files are stored in the screenshots folder and should be replaced with real GitHub screenshots after push and merge.) Tj
+50 104 Td (Screenshot files are stored in the screenshots folder. Replace placeholder files with real GitHub screenshots if your instructor requires exact screenshots inside the PDF.) Tj
 -50 -104 Td
 ET
 endstream
@@ -139,11 +139,11 @@ xref
 0000000000 65535 f 
 0000000015 00000 n 
 0000000085 00000 n 
-0000003812 00000 n 
-0000003938 00000 n 
-0000003995 00000 n 
+0000003870 00000 n 
+0000003996 00000 n 
+0000004053 00000 n 
 trailer
 << /Size 6 /Root 5 0 R >>
 startxref
-4044
+4102
 %%EOF

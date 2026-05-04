@@ -20,4 +20,6 @@ This project describes a Digital Parking Permit System for a university. Student
 Vehicle Registration -> Permit Request -> Zone Check -> Permit Approval -> Parking Verification
 
 ## GitHub Workflow Evidence
+Repository link: https://github.com/elzodxon/SER216_Final_Project_Elzodxon
+
 The repository is prepared with project files, meaningful commits, and a feature branch workflow. The final PDF includes the repository link and a GitHub evidence checklist.
